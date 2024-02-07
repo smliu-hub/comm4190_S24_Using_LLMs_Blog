@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/002/002.html",
+    "href": "posts/002/002.html",
+    "title": "Hello World",
     "section": "",
-    "text": "About this blog"
+    "text": "Read the following and see if you can answer the question:\n\n\nThere are three boxes in a stack. A pink one, a purple one and a green one. The pink one is in the middle of the stack with the purple below it. What is the color of the box on the bottom of the stack?\n\nThis is my dream company!!"
+  },
+  {
+    "objectID": "posts/002/002.html#a-visualization-problem-for-llms",
+    "href": "posts/002/002.html#a-visualization-problem-for-llms",
+    "title": "Hello World",
+    "section": "",
+    "text": "Read the following and see if you can answer the question:\n\n\nThere are three boxes in a stack. A pink one, a purple one and a green one. The pink one is in the middle of the stack with the purple below it. What is the color of the box on the bottom of the stack?\n\nThis is my dream company!!"
+  },
+  {
+    "objectID": "posts/002/002.html#but-it-is-also-good-to-take-a-rest-and-see-..",
+    "href": "posts/002/002.html#but-it-is-also-good-to-take-a-rest-and-see-..",
+    "title": "Hello World",
+    "section": "But it is also good to take a rest, and see ..",
+    "text": "But it is also good to take a rest, and see .."
   },
   {
     "objectID": "posts/001/index.html",
@@ -25,7 +39,14 @@
     "href": "index.html",
     "title": "My Explorations with LLMs",
     "section": "",
-    "text": "A test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello World\n\n\n\n\n\n\ntest\n\n\n\nA brand new life\n\n\n\n\n\nFeb 7, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
   },
   {
     "objectID": "posts/000_test_post/index.html",
