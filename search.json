@@ -14,17 +14,108 @@
     "text": "Read the following and see if you can answer the question:\n\n\nThere are three boxes in a stack. A pink one, a purple one and a green one. The pink one is in the middle of the stack with the purple below it. What is the color of the box on the bottom of the stack?\n\nMost likely you answered purple…\nBut it is possible you first said green (don’t worry if you did it is quite a common response!)\n\n\nIt’s a verbal visual problem that requires some deliberation and most likely for us to create a visual image of a stack of boxes as a reasoning aid.\nNotice also the complexity of the language used in the prompt to describe the scene. The use of natural language as opposed to a formal/logical calculus does hold the potential for ambiguity (multiple interpretations) and inexactness. However, it is the most normal/natural, efficient and broadly accessible way of communicating such information.\nNotice 1. The use of anaphor or reference. - Three BOXES -&gt; a pink/purple/green ONE as opposed to a pink box, a purple box and a green box. - The PINK ONE is in the middle ... the purple {BOX} below IT {the pink box}\nWe tend to try and avoid this kind of repetition to make our speech more coherent.\n\nAlthough the description in language may not be entirely concise, there is no real ambiguity as to how the boxes can be arranged. It must be: | Box | Stack position | | — | — | | GREEN | top | | PINK | middle | | PURPLE | bottom |\n\n\n\n\nGPT3.5 Turbo\n\nHad some difficulties and answered green\nLlama2 (chat 7B version)\n\n\nAnswered correctly (purple) and used some so-called chain-of-thought reasoning\n\nBing Chat (MS Co-pilot)\nThis LLM is GPT4 with some Microsoft specific tuning and RAG (search) additions.\nIt get’s it correct:\n\nThe color of the box on the bottom of the stack is purple. This is because the purple box is below the pink one, which is in the middle of the stack. Therefore, the purple box must be the lowest one. 🟪\n\nBut when you follow up and ask it to create visual representation of the box arrangement\n\nPROMPT: Can you create a visual representation of how the boxes are arranged?\n\nIt responds\n\nRESPONSE: Sure, I’ll try to create that. Here is a visual representation of how the boxes are arranged:\n\nAnd uses DALL-E3 to create 4 different attempts at a visual representation:\n\nNONE OF WHICH ARE CORRECT!!!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Explorations with LLMs",
-    "section": "",
-    "text": "A test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Explorations with LLMs",
+    "section": "",
+    "text": "Is AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nFeb 11, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nA test post\n\n\n\n\n\n\nLLMs\n\n\nprompting\n\n\nlogic\n\n\n\nAn example post from a Jupyter notebook\n\n\n\n\n\nFeb 2, 2024\n\n\nAn LLM User\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/001/001.html",
+    "href": "posts/001/001.html",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "",
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+  },
+  {
+    "objectID": "posts/001/001.html#ai-is-an-excellent-artist",
+    "href": "posts/001/001.html#ai-is-an-excellent-artist",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "",
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+  },
+  {
+    "objectID": "posts/001/001.html#color-theory",
+    "href": "posts/001/001.html#color-theory",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "Color Theory",
+    "text": "Color Theory\nColor theory can help artist to find the perfect color combination that just seem to work every time.\nThere are many color wheels, and we choose to use The Traditional Color Wheel.\n\nSome main concepts in Color Theory:\n🔴 Monochromatic color:\nTake one basic color, monochromatic colors the colors that are similar to the basic color.\nFor example, pink’s monochromatic colors include:\n\n🟩 Complimentary colors:\nComplimentary colors the colors that in the opposite side in the color wheel.\nFor example, pink’s monochromatic colors include green:"
+  },
+  {
+    "objectID": "posts/001/001.html#do-gemini-knows-these",
+    "href": "posts/001/001.html#do-gemini-knows-these",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "Do Gemini knows these?",
+    "text": "Do Gemini knows these?"
+  },
+  {
+    "objectID": "posts/001/001.html#round-1---basic-concept-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-1---basic-concept-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 1 - Basic Concept Test - Monochromatic colors",
+    "text": "🚩 Round 1 - Basic Concept Test - Monochromatic colors\nPROMPT:\nGenerate a cartoon picture with pink and its Monochromatic colors\nRESPONSE: Sure, here’s a cartoon picture featuring pink and its complimentary colors:\n\nUmm! Pretty Good! I love those pictures with various kinds of pinks!\nLet’s try Complementary colors!"
+  },
+  {
+    "objectID": "posts/001/001.html#round-2---basic-concept-test---complementary-colors",
+    "href": "posts/001/001.html#round-2---basic-concept-test---complementary-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 2 - Basic Concept Test - Complementary colors",
+    "text": "🚩 Round 2 - Basic Concept Test - Complementary colors\nPROMPT:\nGenerate a cartoon picture with pink and its Monochromatic colors\nRESPONSE:\nSure, here’s a cartoon picture featuring pink and its Monochromatic colors:\n\nYes! Lots of greens are included! Good job! But it does not mean that it knows what color theory is…\nI then ask Gemini to replace colors to monochromatic colors and complementary colors 😎"
+  },
+  {
+    "objectID": "posts/001/001.html#round-3---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3 - Replacement Creation Test - Monochromatic colors\nFirst, give me some pictures!\nPROMPT:\nCreate a valentines day cartoon theme pictures using only pink and gray.\nRESPONSE:\nSure, here are some Valentine’s Day cartoon theme pictures using only pink and gray:\n\nI chose the last one, since Gemini cannot help with images of people yet 🤦‍♂🤦‍♂ \nPROMPT:\ncreate a new picture which only change the grey color in the originial one using monochromatic colors in color theory\n\nRESPONSE:\nSure, here is a new picture that only changes the gray color in the original one using monochromatic colors in color theory:\n\nI was surprised!!!🤩🤩 Super good! Even though some features in the pictures are changed.\nI changed a picture and ask it again."
+  },
+  {
+    "objectID": "posts/001/001.html#round-3.1---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3.1---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3.1 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3.1 - Replacement Creation Test - Monochromatic colors\nPROMPT:\nBased on the original pictures, create a new image that ONLY change the grey color to monochromatic colors in color theory. Do not change other things in the image.\n\nRESPONSE:\nSure, here is the image you requested:\n\nWhat?!!!!😱😱😱\nIt scared me!!! 😨\nNo. Try again Gemini 😠 I gave it the one that works well before again."
+  },
+  {
+    "objectID": "posts/001/001.html#round-3.2---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3.2---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3.2 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3.2 - Replacement Creation Test - Monochromatic colors\nPROMPT:\ncreate a new picture which only change the grey color in the originial one using monochromatic colors in color theory\nRESPONSE:\nSure, here is a new image where the grey color has been transformed into a monochromatic color scheme, keeping everything else the same:\n\nI can’t believe it!!\nI think it is the machine stucks. It may still know the concepts of Color Theory 👨‍🎓"
+  },
+  {
+    "objectID": "posts/001/001.html#round-4---recreation-test---complementary-colors",
+    "href": "posts/001/001.html#round-4---recreation-test---complementary-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 4 - Recreation Test - Complementary colors",
+    "text": "🚩 Round 4 - Recreation Test - Complementary colors\n❗ I started a new conversation with Gemini.\nPROMPT:\ncreate a new picture which only changeathe grey color in theoriginial one using monochromatic colors in color tse the same:\n\nRESPONSE:\nSure, here is a new image based on the painting you sent, with the gray areas replaced with their complementary colors according to color theory:\n\nIt does not have green at all!\nDo you really know complementary colors?? 😕\nOr actually it knows what complementary colors are. But just cannot replace gray with the complementary colors? ❓"
+  },
+  {
+    "objectID": "posts/001/001.html#round-5---test-models-color-replacement-ability",
+    "href": "posts/001/001.html#round-5---test-models-color-replacement-ability",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 5 - Test model’s color replacement ability",
+    "text": "🚩 Round 5 - Test model’s color replacement ability\nPROMPT:\nadd green color to the pictures to replace the gray \nRESPONSE:\nSure, here is an image with the gray areas replaced with green:\n\nOh Gemini, you actually know how to replace color in pictures. But you cannot change color to a monochromatic color."
+  },
+  {
+    "objectID": "posts/001/001.html#conclusion",
+    "href": "posts/001/001.html#conclusion",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🔚 Conclusion",
+    "text": "🔚 Conclusion\nGo back to our question: Does AI understand color theory?\nThe answer is:\nNO 🙅‍♂🙅‍♀ (At least for Gemini on Feb 11, 2024)\nExplanations:\n🟡 From Round 1 and 2, it can retrieve the knowledge of color theory for me. But this ability cannot prove it really understand color theory.\n🟣 From Round 5, we know that it actually can replace gray color with the green color.\n❗ But Round 4 implies that Gemini actually do no know which is the complementary colors of pink."
+  },
+  {
+    "objectID": "posts/001/001.html#ai-is-not-an-excellent-artist-for-now.",
+    "href": "posts/001/001.html#ai-is-not-an-excellent-artist-for-now.",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "AI is not an excellent artist for now.",
+    "text": "AI is not an excellent artist for now."
   }
 ]
