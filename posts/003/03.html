@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Simin LIU">
+<meta name="dcterms.date" content="2024-02-20">
+<meta name="description" content="See how Emoji can help">
 
-<title>Talking to AI!! - My Explorations with LLMs</title>
+<title>Talking to AI!! - The Secret of AI Generated LOGO: Emoji (2)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +26,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +69,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Talking to AI!!</span>
     </a>
   </div>
@@ -149,7 +92,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -172,149 +115,94 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">My Explorations with LLMs</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">The Secret of AI Generated LOGO: Emoji (2)</h1>
+                  <div>
+        <div class="description">
+          See how Emoji can help
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">DALL·E 3</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Simin LIU </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">February 20, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Color">Color <span class="quarto-category-count">(1)</span></div><div class="category" data-category="DALL·E 3">DALL·E 3 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Diffusion models">Diffusion models <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Welcome!</p>
+<p>In the last post, we discussed many tips about using emoji to generate LOGO. Today, we will see how adjectives and sequence of emoji influence the generated image.</p>
+<section id="adding-adjectives-to-emoji" class="level2">
+<h2 class="anchored" data-anchor-id="adding-adjectives-to-emoji">Adding adjectives to emoji</h2>
+<p>Prompt: ☕️handsome👨⭕️, 4 separate vector logos, simple, Wolfman Coffee, white background</p>
+<p>Output: <img src="R4.png" width="60%"></p>
+<p>It works! But maybe it is because handsome is used for describing man.</p>
+<p>– Every word in the prompt can tell the model what should be included. Like Wolfman contains ‘Wolf’, so there will be element about wolf. Handsome, similarly, it is used for describing man, so there will be man.</p>
+<p>– using adjective that is mainly used for one object can works really well</p>
+<p>🚩 ROUND 2-</p>
+<p>I am trying to add very general adjectives to emoji and see how it goes. See this logo for bookstore. It make me think about ‘inspiring’ ‘knowledgeable’</p>
+<p><img src="bookstore.png" width="60%"></p>
+<p>Prompt: inspiring📖, 4 separate vector logos, simple, add text: Cool Book, white background</p>
+<p>OutPut: <img src="R9.png" width="60%"></p>
+<p>Prompt: knowledgeable 📖, 4 separate vector logos, simple, add text: Cool Book, white background</p>
+<p>Output: <img src="R10.png" width="60%"></p>
+<p>– It really gets the meaning of adjective and successfully adds it to the emoji it!!!! Surprisingly!</p>
+</section>
+<section id="the-sequence-of-emoji-in-the-prompt" class="level2">
+<h2 class="anchored" data-anchor-id="the-sequence-of-emoji-in-the-prompt">The sequence of emoji in the prompt</h2>
+<p>As the first example shows, it seems that if ⭕ comes the last and will become background.</p>
+<p>Let’s try a different sequence and see how it goes</p>
+<p>🚩 ROUND 1 &amp; 2-</p>
+<p>Prompt: ⭕️☕️👨, 4 separate vector logos, simple, Wolfman Coffee, white background</p>
+<p>Output: <img src="R11.png" width="60%"></p>
+<p>Prompt: ☕️👨⭕, 4 separate vector logos, simple, Wolfman Coffee, white background</p>
+<p>Output: <img src="R12.png" width="60%"></p>
+<p>– Compare these two, I found that circle in the logo can be more invisible when ⭕ is put on the first place</p>
+<p>🚩 ROUND 3-</p>
+<p>How about change 👨 to the first? I wonder wheather there will be wolf again? Prompt: 👨☕️⭕, 4 separate vector logos, simple, Wolfman Coffee, white background</p>
+<p>Output: <img src="R13.png" width="60%"> – Yes! The first emoji, which is a man, is very salient and noticeable in the picture.</p>
+</section>
+<section id="conclusion-how-to-use-emoji-effectively-in-logo-design-2" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-how-to-use-emoji-effectively-in-logo-design-2">🔚Conclusion: How to use emoji effectively in LOGO design? (2)</h2>
+<p>Key Takeaways:</p>
+<p>1️⃣ adding adjective(s) in front of the emoji. As for adjective, the more specific to objects you want, the better.</p>
+<p>2️⃣ If you want the shape of the logo be more invisible, make it become the last emoji in your prompt, vise versa.</p>
+<p>3️⃣ If you want the element be more salient in the logo , make it become the last emoji in your prompt, vise versa.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="DALL·E 3" data-listing-date-sort="1708387200000" data-listing-file-modified-sort="1708624530239" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="380">
-<div class="thumbnail">
-<p><a href="./posts/003/03.html" class="no-external"></a></p><a href="./posts/003/03.html" class="no-external">
-<p class="card-img-top"><img src="posts/003/R4.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/003/03.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/003/03.html" class="no-external">The Secret of AI Generated LOGO: Emoji (2)</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/003/03.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('DALL·E 3'); return false;">
-DALL·E 3
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/003/03.html" class="no-external">See how Emoji can help</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/003/03.html" class="no-external">
-<div class="listing-date">
-Feb 20, 2024
-</div>
-<div class="listing-author">
-Simin LIU
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="DALL·E 3,Diffusion models" data-listing-date-sort="1708300800000" data-listing-file-modified-sort="1708624530207" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="546">
-<div class="thumbnail">
-<p><a href="./posts/002/How to make AI become artist .html" class="no-external"></a></p><a href="./posts/002/How to make AI become artist .html" class="no-external">
-<p class="card-img-top"><img src="posts/002/prompt1.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/002/How to make AI become artist .html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/002/How to make AI become artist .html" class="no-external">The Secret of AI Generated LOGO: Emoji (1)</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/002/How to make AI become artist .html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('DALL·E 3'); return false;">
-DALL·E 3
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Diffusion models'); return false;">
-Diffusion models
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/002/How to make AI become artist .html" class="no-external">See how Emoji can help</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/002/How to make AI become artist .html" class="no-external">
-<div class="listing-date">
-Feb 19, 2024
-</div>
-<div class="listing-author">
-Simin LIU
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Color,Diffusion models" data-listing-date-sort="1707609600000" data-listing-file-modified-sort="1708624530175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="727">
-<div class="thumbnail">
-<p><a href="./posts/001/001.html" class="no-external"></a></p><a href="./posts/001/001.html" class="no-external">
-<p class="card-img-top"><img src="posts/001/wheel.jpeg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/001/001.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/001/001.html" class="no-external">Is AI an excellent artist in terms of color?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/001/001.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Color'); return false;">
-Color
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Diffusion models'); return false;">
-Diffusion models
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/001/001.html" class="no-external">COLOR THEORY</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/001/001.html" class="no-external">
-<div class="listing-date">
-Feb 11, 2024
-</div>
-<div class="listing-author">
-Simin LIU
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

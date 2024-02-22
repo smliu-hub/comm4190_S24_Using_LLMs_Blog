@@ -2,30 +2,58 @@
   {
     "objectID": "posts/002/How to make AI become artist .html",
     "href": "posts/002/How to make AI become artist .html",
-    "title": "How to make AI become an artist?",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
     "section": "",
-    "text": "---\ntitle: \"How to make AI become an artist?\"\ndescription: \"Set the system\"\nauthor: \"Simin LIU\"\ndate: \"2/13/2024\"\ncategories:\n    - Diffusion models\n\n---"
+    "text": "Using emoji in DALL·E 3 is a very cool and magical thing to do!\nand one day, I saw a Youtube Video from Matt Wolfe, teaching us how generate LOGO in AI!"
   },
   {
-    "objectID": "posts/002/How to make AI become artist .html#how-to-make-ai-become-an-artist",
-    "href": "posts/002/How to make AI become artist .html#how-to-make-ai-become-an-artist",
-    "title": "How to make AI become an artist?",
-    "section": "How to make AI become an artist?",
-    "text": "How to make AI become an artist?\nIf AI cannot acutually understand the basic theory of painting, can they probably still become an artist?\nHow about change our prompt?"
+    "objectID": "posts/002/How to make AI become artist .html#how-matt-wolfe-generate-logo-using-ai",
+    "href": "posts/002/How to make AI become artist .html#how-matt-wolfe-generate-logo-using-ai",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
+    "section": "How Matt Wolfe generate LOGO Using AI?",
+    "text": "How Matt Wolfe generate LOGO Using AI?\nFrom Matt Wolfe, his prompt: \nand results! \nHe also mentioned some key prompt that he uses: \n😯 How about using Matt’s tips with emoji to generate LOGOs?"
+  },
+  {
+    "objectID": "posts/002/How to make AI become artist .html#using-emoji-to-create-logo-adding-key-prompt",
+    "href": "posts/002/How to make AI become artist .html#using-emoji-to-create-logo-adding-key-prompt",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
+    "section": "Using Emoji to create Logo: Adding Key Prompt",
+    "text": "Using Emoji to create Logo: Adding Key Prompt\n📒 Note: We use DALL·E 3!!\nFollowing Matt Wolfe’s prompt, I wrote:\nPrompt: ☕️👨⭕️, vector logo, simple, a coffee company called Wolfman Coffee, white background\nOutput: \n– Too bad! Try again. We also need to specify how many logos you want in a sheet\n🚩 ROUND 2-\nPrompt: ☕️👨⭕️, 4 separate vector logo, simple, a coffee company called Wolfman Coffee, white background\nOutput: \n– There is no man (as requested by emoji) in the image. The prompt contains too many details.\n🚩 ROUND 3-\nPrompt: ☕️👨⭕️, 4 separate vector logo, simple, Wolfman Coffee, white background\nOutput: \n– Yes! It can understand if there is no sign saying the company is named Wolfman Coffee. It can also combine coffee, man and wolf together"
+  },
+  {
+    "objectID": "posts/002/How to make AI become artist .html#can-machine-recognizes-different-kinds-of-emojis",
+    "href": "posts/002/How to make AI become artist .html#can-machine-recognizes-different-kinds-of-emojis",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
+    "section": "Can machine recognizes different kinds of emojis?",
+    "text": "Can machine recognizes different kinds of emojis?\nPrompt: 🌷, 4 separate vector logo, simple, Flora, white background\nOutput: \nYes! It looks like tulips. See the response from GPT to DALL·E 3.\nCreate four separate vector logos each depicting a different species of flora. The designs should be simple yet elegant, portraying the unique characteristics of each species. All four logos should be set against a plain white background, emphasizing the clean lines and simplicity of the design. The flowers should be beautifully detailed, bringing out each petal’s distinct features, while remaining minimalist in style.\n– Oh, it does not recognize it is tulips. The model maybe just generate some flowers that is similar to emoji 🤔🤔\nBut it is not LOGO and it does not contain the brand name (Flora)!! 🆘🆘\nTry again!\n🚩 ROUND 2-\nPrompt:\n🌹, 4 logo, color, vector, add text: Floa, simple, white background\nOutput: \nSee the response from GPT to DALL·E 3.\nCreate a simple vector image with a white background. This image should primarily feature four distinct logos, and each logo should incorporate designs inspired by roses. Additionally, include the text ‘Floa’ in a tasteful manner within the image. Every logo and the text should have a distinguishable color to create a visually harmonious image.\nAmazing 🎉！ – It not only recognizes red color, but also knows it is rose!"
+  },
+  {
+    "objectID": "posts/002/How to make AI become artist .html#does-model-recognize-emojis-color",
+    "href": "posts/002/How to make AI become artist .html#does-model-recognize-emojis-color",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
+    "section": "Does model recognize emoji’s color?",
+    "text": "Does model recognize emoji’s color?\nPrompt: 🌼, 4 logo, color, vector, add text: Floa, simple, white background\nOutput: \nPrompt: 🌸, 4 logo, color, vector, add text: Floa, simple, white background\nOutput: \n– Even though the second one recognize color of the flowers, but it is better that we specify what color do we need in logo rather than depending on the emoji’s color 😂😂"
+  },
+  {
+    "objectID": "posts/002/How to make AI become artist .html#conclusion-how-to-use-emoji-effectively-in-logo-design-1",
+    "href": "posts/002/How to make AI become artist .html#conclusion-how-to-use-emoji-effectively-in-logo-design-1",
+    "title": "The Secret of AI Generated LOGO: Emoji (1)",
+    "section": "🔚Conclusion: How to use emoji effectively in LOGO design? (1)",
+    "text": "🔚Conclusion: How to use emoji effectively in LOGO design? (1)\nKey Takeaways:\n1️⃣ specify how many logos you want in a sheet\n2️⃣ The machine can be easily distracted by other words, do not use add too many details (less than 12 words expecting parameters)\n3️⃣ If there are multiple logos, the models can also combine them together\n4️⃣ Emoji’s color and shape can influence the results. But for color, it is better to specify it using words\n👋👋 See you in The Secret of AI Generated LOGO: Emoji (2)!!!"
   },
   {
     "objectID": "posts/001/001.html",
     "href": "posts/001/001.html",
     "title": "Is AI an excellent artist in terms of color?",
     "section": "",
-    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOYR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
   },
   {
     "objectID": "posts/001/001.html#is-ai-an-excellent-artist",
     "href": "posts/001/001.html#is-ai-an-excellent-artist",
     "title": "Is AI an excellent artist in terms of color?",
     "section": "",
-    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOYR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
   },
   {
     "objectID": "posts/001/001.html#color-theory",
@@ -105,6 +133,13 @@
     "text": "AI (refers to Gemini) is not an excellent artist for now."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Explorations with LLMs",
+    "section": "",
+    "text": "The Secret of AI Generated LOGO: Emoji (2)\n\n\n\n\n\n\nDALL·E 3\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 20, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (1)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 19, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nIs AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nFeb 11, 2024\n\n\nSimin LIU\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -112,10 +147,31 @@
     "text": "About this blog"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Explorations with LLMs",
+    "objectID": "posts/003/03.html",
+    "href": "posts/003/03.html",
+    "title": "The Secret of AI Generated LOGO: Emoji (2)",
     "section": "",
-    "text": "How to make AI become an artist?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nFeb 11, 2024\n\n\nSimin LIU\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome!\nIn the last post, we discussed many tips about using emoji to generate LOGO. Today, we will see how adjectives and sequence of emoji influence the generated image."
+  },
+  {
+    "objectID": "posts/003/03.html#adding-adjectives-to-emoji",
+    "href": "posts/003/03.html#adding-adjectives-to-emoji",
+    "title": "The Secret of AI Generated LOGO: Emoji (2)",
+    "section": "Adding adjectives to emoji",
+    "text": "Adding adjectives to emoji\nPrompt: ☕️handsome👨⭕️, 4 separate vector logos, simple, Wolfman Coffee, white background\nOutput: \nIt works! But maybe it is because handsome is used for describing man.\n– Every word in the prompt can tell the model what should be included. Like Wolfman contains ‘Wolf’, so there will be element about wolf. Handsome, similarly, it is used for describing man, so there will be man.\n– using adjective that is mainly used for one object can works really well\n🚩 ROUND 2-\nI am trying to add very general adjectives to emoji and see how it goes. See this logo for bookstore. It make me think about ‘inspiring’ ‘knowledgeable’\n\nPrompt: inspiring📖, 4 separate vector logos, simple, add text: Cool Book, white background\nOutPut: \nPrompt: knowledgeable 📖, 4 separate vector logos, simple, add text: Cool Book, white background\nOutput: \n– It really gets the meaning of adjective and successfully adds it to the emoji it!!!! Surprisingly!"
+  },
+  {
+    "objectID": "posts/003/03.html#the-sequence-of-emoji-in-the-prompt",
+    "href": "posts/003/03.html#the-sequence-of-emoji-in-the-prompt",
+    "title": "The Secret of AI Generated LOGO: Emoji (2)",
+    "section": "The sequence of emoji in the prompt",
+    "text": "The sequence of emoji in the prompt\nAs the first example shows, it seems that if ⭕ comes the last and will become background.\nLet’s try a different sequence and see how it goes\n🚩 ROUND 1 & 2-\nPrompt: ⭕️☕️👨, 4 separate vector logos, simple, Wolfman Coffee, white background\nOutput: \nPrompt: ☕️👨⭕, 4 separate vector logos, simple, Wolfman Coffee, white background\nOutput: \n– Compare these two, I found that circle in the logo can be more invisible when ⭕ is put on the first place\n🚩 ROUND 3-\nHow about change 👨 to the first? I wonder wheather there will be wolf again? Prompt: 👨☕️⭕, 4 separate vector logos, simple, Wolfman Coffee, white background\nOutput:  – Yes! The first emoji, which is a man, is very salient and noticeable in the picture."
+  },
+  {
+    "objectID": "posts/003/03.html#conclusion-how-to-use-emoji-effectively-in-logo-design-2",
+    "href": "posts/003/03.html#conclusion-how-to-use-emoji-effectively-in-logo-design-2",
+    "title": "The Secret of AI Generated LOGO: Emoji (2)",
+    "section": "🔚Conclusion: How to use emoji effectively in LOGO design? (2)",
+    "text": "🔚Conclusion: How to use emoji effectively in LOGO design? (2)\nKey Takeaways:\n1️⃣ adding adjective(s) in front of the emoji. As for adjective, the more specific to objects you want, the better.\n2️⃣ If you want the shape of the logo be more invisible, make it become the last emoji in your prompt, vise versa.\n3️⃣ If you want the element be more salient in the logo , make it become the last emoji in your prompt, vise versa."
   }
 ]
