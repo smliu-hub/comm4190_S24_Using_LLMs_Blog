@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Explorations with LLMs",
+    "section": "",
+    "text": "How to recreate the same style as in that image 2\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 6, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 1\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 5, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (3)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 29, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (2)\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 27, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (1)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 22, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nIs AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nFeb 19, 2024\n\n\nSimin LIU\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "Mindmap.html",
     "href": "Mindmap.html",
     "title": "Talking to AI!!",
@@ -49,34 +56,6 @@
     "text": "🔚Conclusion: How to use emoji effectively in LOGO design? (1)\nKey Takeaways:\n1️⃣ specify how many logos you want in a sheet\n2️⃣ The machine can be easily distracted by other words, do not use add too many details (less than 12 words expecting parameters)\n3️⃣ If there are multiple logos, the models can also combine them together\n4️⃣ Emoji’s color and shape can influence the results. But for color, it is better to specify it using words\n👋👋 See you in The Secret of AI Generated LOGO: Emoji (2)!!!"
   },
   {
-    "objectID": "posts/004/004.html",
-    "href": "posts/004/004.html",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "",
-    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
-  },
-  {
-    "objectID": "posts/004/004.html#do-gpt-4-understands-emoji",
-    "href": "posts/004/004.html#do-gpt-4-understands-emoji",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "",
-    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
-  },
-  {
-    "objectID": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
-    "href": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "Compare prompts with words and prompts with emojis!",
-    "text": "Compare prompts with words and prompts with emojis!\n📒 Note: We use DALL·E 3!!\n🔴 Prompts with only words Prompt: books, 4 logos, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: create an image containing four books spaced evenly on a plain white background. Each book should be depicted with a unique logo on its cover, with the logos being simple and designed in a vector style. Each logo should feature a different splash of color. Overlay the text ‘mapwithmind’ on the image.\n🔺 Prompts with emojis Prompt: 📚, 4 logo, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: Design four distinct logos in color vector style on a simple white background. Incorporate the text ‘mapwithmind’ creatively into each design. Each logo should evoke an imaginative yet straightforward concept.\n👉 DALL·E 3 understands words better than emojis: In the response for Prompts with emojis, it even does not mention books!!\nBut for Prompts with only words, both the background and the logos are related to books!"
-  },
-  {
-    "objectID": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
-    "href": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "Fun usage of emojis to recreate famous companies logos",
-    "text": "Fun usage of emojis to recreate famous companies logos\n🛒 Amazon:\nPrompt: smile, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a vector image featuring a symbolic illustration of a smile. Introduce four stylized logos that do not infringe any copyright, keeping them simple and making sure they contain elements reminiscent of online marketplace symbols. Incorporate the text ‘Amazon Rainforest’, creating a clear distinction to avoid possible copyright issues. Maintain a simple white background for the whole composition.\n👉 Wow! It takes cares of copyright issues, so it changes to ‘Amazon Rainforest; and ’creating a clear distinction to avoid possible copyright issues’\nIt knows what amazon is, so also includes online marketplace\nPrompt: 🙂, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a simple vector design that displays a sequence of four (4) distinct logos. Each logo should be creatively arranged in a visually appealing format on a white backdrop. Incorporate the word ‘amazon’ within the logo designs, ensuring the text is established harmoniously with the overall aesthetic.\n👉 Surprisingly, there is no smile information in the response!"
-  },
-  {
     "objectID": "posts/003/03.html",
     "href": "posts/003/03.html",
     "title": "The Secret of AI Generated LOGO: Emoji (2)",
@@ -105,18 +84,32 @@
     "text": "🔚Conclusion: How to use emoji effectively in LOGO design? (2)\nKey Takeaways:\n1️⃣ adding adjective(s) in front of the emoji. As for adjective, the more specific to objects you want, the better.\n2️⃣ If you want the shape of the logo be more invisible, make it become the last emoji in your prompt, vise versa.\n3️⃣ If you want the element be more salient in the logo , make it become the last emoji in your prompt, vise versa."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Explorations with LLMs",
+    "objectID": "posts/006/006.html",
+    "href": "posts/006/006.html",
+    "title": "How to recreate the same style as in that image 2",
     "section": "",
-    "text": "How to recreate the same style as in that image 2\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nFeb 25, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 1\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nFeb 24, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (3)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 23, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (2)\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 20, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (1)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nFeb 19, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nIs AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nFeb 11, 2024\n\n\nSimin LIU\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome the the second post of ‘How to recreate the same style as in that image’\n❗❗❗If you haven’t checked the first post, I STRONGLY RECOMMEND that you do so. It will help you understand what I am doing here!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
+    "objectID": "posts/006/006.html#try-midjourney-again",
+    "href": "posts/006/006.html#try-midjourney-again",
+    "title": "How to recreate the same style as in that image 2",
+    "section": "Try Midjourney AGAIN!!",
+    "text": "Try Midjourney AGAIN!!\n🟡 Step 1: Go to a server with Midjourney Chatbot\n🟠 Step 2: Upload an image \n🔴 Step 3: Get the URL of the image\n\n❤️ Step 4: Write a new prompt with the URL \nOutput:\n\nGreat! It is much better than before. Give a sample image is very useful in Midjourney"
+  },
+  {
+    "objectID": "posts/006/006.html#generate-image-with-similar-style",
+    "href": "posts/006/006.html#generate-image-with-similar-style",
+    "title": "How to recreate the same style as in that image 2",
+    "section": "Generate image with similar style",
+    "text": "Generate image with similar style\nHow about hange ‘house’ to ‘pen’?\n🚩 TEST1\nPrompt: https://cdn.discordapp.com/attachments/1212025668125335603/1212035358167011479/house.png?ex=65f05ee3&is=65dde9e3&hm=2195ea3ad22f1a4577588d38a662cc326a64e5ddcbab520757dd7ad3870ac2d4& outline of a sketch of a pen, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart –ar 12:13 –v 3\nOutput: \n??? I tried the same prompt again!\nOutput: \nToo bad!! I will change its style using But it is midjourney V6\n🚩 TEST2\nPrompt:\noutline of a sketch of a pen, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart –sref https://s.mj.run/aE_vSstFjZQ –ar 12:13\nOutput: \nSuper good!"
+  },
+  {
+    "objectID": "posts/006/006.html#conclusion",
+    "href": "posts/006/006.html#conclusion",
+    "title": "How to recreate the same style as in that image 2",
+    "section": "🔚 Conclusion",
+    "text": "🔚 Conclusion\nUse style change in v6! Even though you are creating simple image!"
   },
   {
     "objectID": "posts/005/005.html",
@@ -159,6 +152,34 @@
     "title": "How to recreate the same style as in that image 1",
     "section": "🔚 Conclusion",
     "text": "🔚 Conclusion\nIn the next post, I will use Midjourney to generate the similar style!! Go and check that out!!!"
+  },
+  {
+    "objectID": "posts/004/004.html",
+    "href": "posts/004/004.html",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "",
+    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+  },
+  {
+    "objectID": "posts/004/004.html#do-gpt-4-understands-emoji",
+    "href": "posts/004/004.html#do-gpt-4-understands-emoji",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "",
+    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+  },
+  {
+    "objectID": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
+    "href": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "Compare prompts with words and prompts with emojis!",
+    "text": "Compare prompts with words and prompts with emojis!\n📒 Note: We use DALL·E 3!!\n🔴 Prompts with only words Prompt: books, 4 logos, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: create an image containing four books spaced evenly on a plain white background. Each book should be depicted with a unique logo on its cover, with the logos being simple and designed in a vector style. Each logo should feature a different splash of color. Overlay the text ‘mapwithmind’ on the image.\n🔺 Prompts with emojis Prompt: 📚, 4 logo, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: Design four distinct logos in color vector style on a simple white background. Incorporate the text ‘mapwithmind’ creatively into each design. Each logo should evoke an imaginative yet straightforward concept.\n👉 DALL·E 3 understands words better than emojis: In the response for Prompts with emojis, it even does not mention books!!\nBut for Prompts with only words, both the background and the logos are related to books!"
+  },
+  {
+    "objectID": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
+    "href": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "Fun usage of emojis to recreate famous companies logos",
+    "text": "Fun usage of emojis to recreate famous companies logos\n🛒 Amazon:\nPrompt: smile, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a vector image featuring a symbolic illustration of a smile. Introduce four stylized logos that do not infringe any copyright, keeping them simple and making sure they contain elements reminiscent of online marketplace symbols. Incorporate the text ‘Amazon Rainforest’, creating a clear distinction to avoid possible copyright issues. Maintain a simple white background for the whole composition.\n👉 Wow! It takes cares of copyright issues, so it changes to ‘Amazon Rainforest; and ’creating a clear distinction to avoid possible copyright issues’\nIt knows what amazon is, so also includes online marketplace\nPrompt: 🙂, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a simple vector design that displays a sequence of four (4) distinct logos. Each logo should be creatively arranged in a visually appealing format on a white backdrop. Incorporate the word ‘amazon’ within the logo designs, ensuring the text is established harmoniously with the overall aesthetic.\n👉 Surprisingly, there is no smile information in the response!"
   },
   {
     "objectID": "posts/001/001.html",
@@ -252,31 +273,10 @@
     "text": "AI (refers to Gemini) is not an excellent artist for now."
   },
   {
-    "objectID": "posts/006/006.html",
-    "href": "posts/006/006.html",
-    "title": "How to recreate the same style as in that image 2",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Welcome the the second post of ‘How to recreate the same style as in that image’\n❗❗❗If you haven’t checked the first post, I STRONGLY RECOMMEND that you do so. It will help you understand what I am doing here!"
-  },
-  {
-    "objectID": "posts/006/006.html#try-midjourney-again",
-    "href": "posts/006/006.html#try-midjourney-again",
-    "title": "How to recreate the same style as in that image 2",
-    "section": "Try Midjourney AGAIN!!",
-    "text": "Try Midjourney AGAIN!!\n🟡 Step 1: Go to a server with Midjourney Chatbot\n🟠 Step 2: Upload an image \n🔴 Step 3: Get the URL of the image\n\n❤️ Step 4: Write a new prompt with the URL \nOutput:\n\nGreat! It is much better than before. Give a sample image is very useful in Midjourney"
-  },
-  {
-    "objectID": "posts/006/006.html#generate-image-with-similar-style",
-    "href": "posts/006/006.html#generate-image-with-similar-style",
-    "title": "How to recreate the same style as in that image 2",
-    "section": "Generate image with similar style",
-    "text": "Generate image with similar style\nHow about hange ‘house’ to ‘pen’?\n🚩 TEST1\nPrompt: https://cdn.discordapp.com/attachments/1212025668125335603/1212035358167011479/house.png?ex=65f05ee3&is=65dde9e3&hm=2195ea3ad22f1a4577588d38a662cc326a64e5ddcbab520757dd7ad3870ac2d4& outline of a sketch of a pen, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart –ar 12:13 –v 3\nOutput: \n??? I tried the same prompt again!\nOutput: \nToo bad!! I will change its style using But it is midjourney V6\n🚩 TEST2\nPrompt:\noutline of a sketch of a pen, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart –sref https://s.mj.run/aE_vSstFjZQ –ar 12:13\nOutput: \nSuper good!"
-  },
-  {
-    "objectID": "posts/006/006.html#conclusion",
-    "href": "posts/006/006.html#conclusion",
-    "title": "How to recreate the same style as in that image 2",
-    "section": "🔚 Conclusion",
-    "text": "🔚 Conclusion\nUse style change in v6! Even though you are creating simple image!"
+    "text": "Hey there! 👋 I’m Simin Liu, an exchange student at the University of Pennsylvania and a student at Hong Kong Baptist University. 🎓\nMy posts are all about my adventures with Large Language Models (LLMs) – from diving into natural language processing to unraveling the potential of AI. 🤖\nJoin me as I share insights, challenges, and triumphs, exploring the boundless possibilities of LLMs together! 🚀\nLet’s embark on this journey of discovery! 🌟"
   }
 ]
