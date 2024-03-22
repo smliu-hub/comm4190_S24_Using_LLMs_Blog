@@ -5,4 +5,10 @@ about:
   template: jolla
 ---
 
-About this blog
+Hey there! 👋 I'm Simin Liu, an exchange student at the University of Pennsylvania and a student at Hong Kong Baptist University. 🎓 
+
+My posts are all about my adventures with Large Language Models (LLMs) – from diving into natural language processing to unraveling the potential of AI. 🤖 
+
+Join me as I share insights, challenges, and triumphs, exploring the boundless possibilities of LLMs together! 🚀 
+
+Let's embark on this journey of discovery! 🌟
