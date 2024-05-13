@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "My Explorations with LLMs",
     "section": "",
-    "text": "The Secret of AI Generated LOGO: Emoji (3)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 13, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (2)\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 9, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (1)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 2, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 2\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 30, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 1\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 19, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is better in raising awareness of egg allergies?\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nA blog discussing a mathematical issue LLMs face when comparing between infinite decimals \n\n\n\n\n\nMar 12, 2024\n\n\nSimin & Baiyi\n\n\n\n\n\n\nNo matching items"
+    "text": "🤔 What is CFG\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompare different types of ControlNet(2)\n\n\n\n\n\n\nStable Diffusion\n\n\nCanny\n\n\nOpenPose\n\n\n\nControlnet functions\n\n\n\n\n\nMay 15, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nCompare different types of ControlNet(1)\n\n\n\n\n\n\nStable Diffusion\n\n\nDepth\n\n\nOpenPose\n\n\n\nControlnet functions\n\n\n\n\n\nMay 10, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nIs AI an excellent artist in terms of color?\n\n\n\n\n\n\nColor\n\n\nDiffusion models\n\n\n\nCOLOR THEORY\n\n\n\n\n\nApr 20, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (3)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 13, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (2)\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 9, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nThe Secret of AI Generated LOGO: Emoji (1)\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nSee how Emoji can help\n\n\n\n\n\nApr 2, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 2\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 30, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nHow to recreate the same style as in that image 1\n\n\n\n\n\n\nDALL·E 3\n\n\nMidjourney\n\n\nDiffusion models\n\n\n\nReverse Engineering images\n\n\n\n\n\nMar 19, 2024\n\n\nSimin LIU\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is better in raising awareness of egg allergies?\n\n\n\n\n\n\nDALL·E 3\n\n\nDiffusion models\n\n\n\nA blog discussing a mathematical issue LLMs face when comparing between infinite decimals \n\n\n\n\n\nMar 12, 2024\n\n\nSimin & Baiyi\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/007/egg_allergies.html",
@@ -70,46 +70,179 @@
     "text": "IN\nLet’s break down the evaluation of this post based on the given criteria:\nContent Quality (20/20): The post provides valuable information about egg allergies in children, accompanied by an illustrative image. While we don’t have access to the image quality description, assuming it’s well-illustrated and informative, it likely meets the standard for content quality.\nRelevance (20/20): As a young mother, information about food allergies and child safety would likely be highly relevant. This post addresses a crucial aspect of child health and safety, making it highly relevant to the theme of parenting and child safety.\nCreativity (17/20): While the post delivers important information in a clear and concise manner, it may lack a bit in terms of creativity. The use of an illustrative image is a creative touch, but the content itself is straightforward and informational without much flair in terms of presentation or delivery.\nEngagement (18/20): The post encourages engagement indirectly by raising awareness about a critical issue that parents may want to discuss or share with others. It prompts parents to consider their child’s health and safety, which could lead to comments or shares among concerned parents.\nEmotional Connection (20/20): The post effectively taps into the emotions of parents by discussing the potentially life-threatening consequences of egg allergies in children. It emphasizes the importance of vigilance and early detection, which can resonate strongly with parents who prioritize their child’s well-being.\nOverall Grade: 95/100\nExplanation: This post scores highly across all criteria, providing valuable information that is both relevant and emotionally engaging for young mothers. While it could enhance its creativity slightly, the use of an illustrative image adds visual appeal. Overall, it’s an excellent post that effectively educates and raises awareness about a critical issue in child health and safety.\n\n\n\nVariables\nPositive\nNegative\n\n\n\n\nNarrative\n94\n87\n\n\nInformative\n91\n95\n\n\n\nIn conclusion, informative do better than narrative while positive do better than negative. Informative-negative has the highest score, narrative-negative is the lowest. This may result from the use of comics instead of realistic photos, While narrative relies more on real"
   },
   {
-    "objectID": "posts/005/005.html",
-    "href": "posts/005/005.html",
-    "title": "How to recreate the same style as in that image 1",
+    "objectID": "posts/009/009.html",
+    "href": "posts/009/009.html",
+    "title": "Compare different types of ControlNet(1)",
     "section": "",
-    "text": "In Matt Wolfe’s YouTube Video, he teach us how to figure out the prompt used for one AI image.\n\nBut TODAY! I will show you how to create the same style as in that image!\nNo matter whether it is AI image or not!\nYou can try the following methods to replicate the same style AS YOU WANT!"
+    "text": "ControlNet is a technique used in Stable Diffusion, which is an extension of OpenAI’s diffusion models.\nIt is now hard to control what kind of images we get, but ControlNet allows users to precisely control the diffusion process, enabling the manipulation of the output of the model by conditioning it on specific attributes, such as text prompts or images. This helps in generating more tailored and contextually relevant outputs from the model.\nThere are mainly 5 main ControlNet"
   },
   {
-    "objectID": "posts/005/005.html#whats-the-prompt-for-that-ai-image",
-    "href": "posts/005/005.html#whats-the-prompt-for-that-ai-image",
-    "title": "How to recreate the same style as in that image 1",
+    "objectID": "posts/009/009.html#what-is-controlnet",
+    "href": "posts/009/009.html#what-is-controlnet",
+    "title": "Compare different types of ControlNet(1)",
     "section": "",
-    "text": "In Matt Wolfe’s YouTube Video, he teach us how to figure out the prompt used for one AI image.\n\nBut TODAY! I will show you how to create the same style as in that image!\nNo matter whether it is AI image or not!\nYou can try the following methods to replicate the same style AS YOU WANT!"
+    "text": "ControlNet is a technique used in Stable Diffusion, which is an extension of OpenAI’s diffusion models.\nIt is now hard to control what kind of images we get, but ControlNet allows users to precisely control the diffusion process, enabling the manipulation of the output of the model by conditioning it on specific attributes, such as text prompts or images. This helps in generating more tailored and contextually relevant outputs from the model.\nThere are mainly 5 main ControlNet"
   },
   {
-    "objectID": "posts/005/005.html#clip-interrogator-in-huggingface",
-    "href": "posts/005/005.html#clip-interrogator-in-huggingface",
-    "title": "How to recreate the same style as in that image 1",
-    "section": "CLIP-Interrogator in Huggingface",
-    "text": "CLIP-Interrogator in Huggingface\n🟡 Step 1: Click the link below: https://huggingface.co/spaces\n🟠 Step 2: Search for “CLIP Interrogator”\n🔴 Step 3: Find the one has the most likes\n\n❗❗❗Note that the CLIP Interrogator can be changed sometimes, please follow these steps to find the best CLIP-Interrogator!!!Note that the CLIP Interrogator can be changed sometimes, please follow these steps to find the best CLIP-Interrogator!!!\n❤️ Step 4:Upload your image."
+    "objectID": "posts/009/009.html#openpose",
+    "href": "posts/009/009.html#openpose",
+    "title": "Compare different types of ControlNet(1)",
+    "section": "OPenPose",
+    "text": "OPenPose\nBy incorporating OpenPose into ControlNet, the model can better understand and interpret human body poses, enabling more accurate and contextually relevant generation of text or images based on these poses.\nhis integration enhances the capabilities of ControlNet by providing it with richer input data, resulting in more nuanced and tailored outputs.\nFor example, this is the image and its conresponding image interpreted by Stable Diffusion\nHere is the image that we want the model follows:\n\nWe can use preview function to see how Stable Diffusion intrepret this image:\n\nIt kind of summarizing the image pose and tell us what it will take care of.\nPrompt: masterpiece,best quality,1 girl,seaside,beach,full body,beautifully detailed background,cute anime face,masterpiece,color clothing,whole body,glitch lump on face,ultra-detailed,extremely delicate and beautiful,album cover,clear lines,squares,bright,limited palette,chahua,\nNegative Prompt: NSFW,logo,text,blurry,low quality,bad anatomy,sketches,lowres,normal quality,monochrome,grayscale,worstquality,signature,watermark,cropped,username,out of focus,bad proportions,\nOutput:\n\n👍 It maintains the pose perfectly in the final pictures, especially this kind of function can help us using images to express what we want. It is actually hard to use words to describe what we want"
   },
   {
-    "objectID": "posts/005/005.html#try-clip-interrogator-in-huggingface",
-    "href": "posts/005/005.html#try-clip-interrogator-in-huggingface",
-    "title": "How to recreate the same style as in that image 1",
-    "section": "Try CLIP-Interrogator in Huggingface !!",
-    "text": "Try CLIP-Interrogator in Huggingface !!\nI want to create a set of stickers under the theme of office.\nThe style should be similar to: \nAfter I upload the image, here is the output from CLIP Interrogator: a black and white drawing of a house, pictogram, based on child’s drawing, by Itō Seiu, osr, easy to understand, low resolution, nonbinary model, portrait size, warm features, descriptive, full subject shown in photo, one house, scanned document, color image\n✍ To test whether the prompt can generate the image you want, the best way is to put the prompt again, and see what you can get!\n🚩 TEST1\nAfter I edit some words, I got my final prompt for DALL·E 3:\nPrompt: a black and white drawing of a house, pictogram, based on child’s drawing, easy to understand, one house\nOutput: \nNot bad! But probably need to be more like simple easy line arts since the image is not filled with black.\nBut, I still feel weird if I put ’ image is not filled with black’ in the prompt.\nSo I ask Midjourney for help!"
+    "objectID": "posts/009/009.html#depth",
+    "href": "posts/009/009.html#depth",
+    "title": "Compare different types of ControlNet(1)",
+    "section": "Depth",
+    "text": "Depth\nBy integrating depth data, ControlNet gains a better understanding of the three-dimensional structure of the scene, allowing for more accurate and contextually relevant generation of text or images.\nThis integration enables ControlNet to produce outputs that are not only visually accurate but also spatially coherent, resulting in more realistic and immersive generated content.\nHere is the image that we ask it to follows.\n\nIf we use Depth, and the prompts are: female character,close-up,peaceful expression,flowing black hair,wind effect,home,piano,minimalistic floral pattern,subtle texture,soft shading,gentle brush strokes,serene,simple attire,tranquil mood,ethereal aesthetic,whimsical,light and shadow play,\nNegative Prompts: extra legs,bad feet,cross-eyed,mutated hands and fingers,extra limb,extra arms,mutated hands,poorly drawn hands,malformed hands,too many fingers,fused fingers,missing fingers,acnes,missing limb,bad hands,malformed limbs,floating limbs,skin spots,disconnected limbs,skin blemishes,poorly drawn face,disfigured,ugly,(fat:1.2),Multiple people,(fat:1.2),bad body,mutated,long body,mutation,deformed,long neck,(fat:1.2),\nThis is how ‘depth’ understands the image. It shows the different layers of the image, especially her hands position.\n\nThis is the output:\n\nSo great! Especially when we compare it to OpenPose. OpenPose cannot distinguish when one hand is in front of the other.\nHere is what OpenPose gives us. It is definately cannot show what we do"
   },
   {
-    "objectID": "posts/005/005.html#try-midjourney",
-    "href": "posts/005/005.html#try-midjourney",
-    "title": "How to recreate the same style as in that image 1",
-    "section": "Try Midjourney !!",
-    "text": "Try Midjourney !!\n🟡 Step 1: Create a new chat\n\n🟠 Step 2: Type in ‘/describe’\n🔴 Step 3: Upload your image!\n\nAll right! Here is what Midjourney generates! \nWhen I click 1️⃣2️⃣3️⃣4️⃣， it can show the prompts that Midjourney guesses.\n1️⃣： an outline of a sketch of a house, in the style of simplistic characters, back button focus, political symbolism, holga 120n, use of precious materials, animated gifs, bold black outlines –ar 12:13 –v 3\n2️⃣：a drawing of the letter h. a house that is drawn with a pencil, in the style of simplistic characters, psychological symbolism, kodak professional tri-x 320, john brack, richard scarry, back button focus, 1000–1400 ce –ar 12:13 –v 3\n3️⃣：house coloring page free printable clip art free , in the style of feminist iconography, ilford pan 400, tactile texture, animated gifs, childs drawing, light maroon and black, tagging-like marks –ar 12:13 –v 3\n4️⃣：free house clipart images, in the style of gestural mark-making, peter blake, hallyu, kodak tri-x 400, political symbolism, allie brosh, embroidery –ar 12:13 –v 3\n✅ Some keywards that I get: outline of a sketch of a house, in the style of simplistic characters, bold black outlines, in the style of simplistic characters, clipart\nLet’s try it!\n🚩 TEST2\nI choose the prompts in 1️⃣ to generate image for me in Midjourney\n\n👉 Oh, it is still not as simple as we want. Image generation models doesn’t seem very capable of generating simple images.\n🚩 TEST3\nI also try DALL·E 3 using our previous prompt and keywords that we find in Midjourney\nPrompt: outline of a sketch of a house, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart\nOutput: \nResponse: Craft an image that showcases a house. The house should be sketched with bold, black outlines inspired by a child’s drawing. This should be a simple, easy-to-understand depiction reminiscent of pictograms. It must not be too detailed yet should not fall into abstraction, closely resembling pictographic elements found in clipart style illustrations.\n👉 AAAAAAA! Still NOT GOOD!!!\nI think the response follows what I requires very well…"
+    "objectID": "posts/009/009.html#conclusion",
+    "href": "posts/009/009.html#conclusion",
+    "title": "Compare different types of ControlNet(1)",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn conclusion, the integration of ControlNet into Stable Diffusion enhances the model’s capabilities by providing more precise control over the generation process.\nBy incorporating techniques such as OpenPose and depth information, ControlNet enables the model to produce more contextually relevant and realistic outputs.\nControlNet represents a significant advancement in the field of generative models, and we will explore more in the next post!"
   },
   {
-    "objectID": "posts/005/005.html#conclusion",
-    "href": "posts/005/005.html#conclusion",
-    "title": "How to recreate the same style as in that image 1",
+    "objectID": "posts/004/004.html",
+    "href": "posts/004/004.html",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "",
+    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+  },
+  {
+    "objectID": "posts/004/004.html#do-gpt-4-understands-emoji",
+    "href": "posts/004/004.html#do-gpt-4-understands-emoji",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "",
+    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+  },
+  {
+    "objectID": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
+    "href": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "Compare prompts with words and prompts with emojis!",
+    "text": "Compare prompts with words and prompts with emojis!\n📒 Note: We use DALL·E 3!!\n🔴 Prompts with only words Prompt: books, 4 logos, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: create an image containing four books spaced evenly on a plain white background. Each book should be depicted with a unique logo on its cover, with the logos being simple and designed in a vector style. Each logo should feature a different splash of color. Overlay the text ‘mapwithmind’ on the image.\n🔺 Prompts with emojis Prompt: 📚, 4 logo, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: Design four distinct logos in color vector style on a simple white background. Incorporate the text ‘mapwithmind’ creatively into each design. Each logo should evoke an imaginative yet straightforward concept.\n👉 DALL·E 3 understands words better than emojis: In the response for Prompts with emojis, it even does not mention books!!\nBut for Prompts with only words, both the background and the logos are related to books!"
+  },
+  {
+    "objectID": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
+    "href": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
+    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "section": "Fun usage of emojis to recreate famous companies logos",
+    "text": "Fun usage of emojis to recreate famous companies logos\n🛒 Amazon:\nPrompt: smile, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a vector image featuring a symbolic illustration of a smile. Introduce four stylized logos that do not infringe any copyright, keeping them simple and making sure they contain elements reminiscent of online marketplace symbols. Incorporate the text ‘Amazon Rainforest’, creating a clear distinction to avoid possible copyright issues. Maintain a simple white background for the whole composition.\n👉 Wow! It takes cares of copyright issues, so it changes to ‘Amazon Rainforest; and ’creating a clear distinction to avoid possible copyright issues’\nIt knows what amazon is, so also includes online marketplace\nPrompt: 🙂, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a simple vector design that displays a sequence of four (4) distinct logos. Each logo should be creatively arranged in a visually appealing format on a white backdrop. Incorporate the word ‘amazon’ within the logo designs, ensuring the text is established harmoniously with the overall aesthetic.\n👉 Surprisingly, there is no smile information in the response!"
+  },
+  {
+    "objectID": "posts/008/008.html",
+    "href": "posts/008/008.html",
+    "title": "🤔 What is CFG",
+    "section": "",
+    "text": "---\ntitle: \"Use CFG in Stable Diffusion\"\ndescription: \"What CFG can do?\"\nauthor: \"Simin LIU\"\ndate: \"5/1/2024\"\ncategories:\n    - Stable Diffusion\n    - Diffusion models\n---\nCFG is a function that is ‘Classifier Free Guidance scale’. Frankly, it controls how relevant the image to your prompts. If CFG is very low, AI can be more free to draw the image."
+  },
+  {
+    "objectID": "posts/008/008.html#so-the-higher-cfg-the-better",
+    "href": "posts/008/008.html#so-the-higher-cfg-the-better",
+    "title": "🤔 What is CFG",
+    "section": "😯 So? The Higher CFG the Better?",
+    "text": "😯 So? The Higher CFG the Better?\nNo.\nThe increase in CFG doesn’t necessarily mean the image can become better. A higher CFG will make the image contrast too high.\nMoreover, different models have their own better CFGs suitable for them."
+  },
+  {
+    "objectID": "posts/008/008.html#usually-cfg-scale-is-from-7-to-10-with-detailed-prompts.",
+    "href": "posts/008/008.html#usually-cfg-scale-is-from-7-to-10-with-detailed-prompts.",
+    "title": "🤔 What is CFG",
+    "section": "Usually CFG Scale is from 7 to 10 with detailed prompts.",
+    "text": "Usually CFG Scale is from 7 to 10 with detailed prompts."
+  },
+  {
+    "objectID": "posts/001/001.html",
+    "href": "posts/001/001.html",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "",
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOYR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+  },
+  {
+    "objectID": "posts/001/001.html#is-ai-an-excellent-artist",
+    "href": "posts/001/001.html#is-ai-an-excellent-artist",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "",
+    "text": "I don’t know 🤷\nBut what I do know is that an excellent artist knows COLOR THEOYR ?\nSo, does A understands knowledge of color theoryto make it an excellent artist??"
+  },
+  {
+    "objectID": "posts/001/001.html#color-theory",
+    "href": "posts/001/001.html#color-theory",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "Color Theory",
+    "text": "Color Theory\nColor theory can help artist to find the perfect color combination that just seem to work every time.\nThere are many color wheels, and we choose to use The Traditional Color Wheel.\n\nSome main concepts in Color Theory:\n🔴 Monochromatic color:\nTake one basic color, monochromatic colors the colors that are similar to the basic color.\nFor example, pink’s monochromatic colors include:\n\n🟩 Complimentary colors:\nComplimentary colors the colors that in the opposite side in the color wheel.\nFor example, pink’s monochromatic colors include green:"
+  },
+  {
+    "objectID": "posts/001/001.html#do-gemini-knows-these",
+    "href": "posts/001/001.html#do-gemini-knows-these",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "Do Gemini knows these?",
+    "text": "Do Gemini knows these?"
+  },
+  {
+    "objectID": "posts/001/001.html#round-1---basic-concept-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-1---basic-concept-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 1 - Basic Concept Test - Monochromatic colors",
+    "text": "🚩 Round 1 - Basic Concept Test - Monochromatic colors\nPROMPT:\nGenerate a cartoon picture with pink and its monochromatic colors\nRESPONSE: Sure, here’s a cartoon picture featuring pink and its monochromatic colors:\n\nUmm! Pretty Good! I love those pictures with various kinds of pinks!\nLet’s try Complementary colors!"
+  },
+  {
+    "objectID": "posts/001/001.html#round-2---basic-concept-test---complementary-colors",
+    "href": "posts/001/001.html#round-2---basic-concept-test---complementary-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 2 - Basic Concept Test - Complementary colors",
+    "text": "🚩 Round 2 - Basic Concept Test - Complementary colors\nPROMPT:\nGenerate a cartoon picture with pink and its complementary colors\nRESPONSE:\nSure, here’s a cartoon picture featuring pink and its complementary colors:\n\nYes! Lots of greens are included! Good job! But it does not mean that it knows what color theory is…\nI then ask Gemini to replace colors to monochromatic colors and complementary colors 😎"
+  },
+  {
+    "objectID": "posts/001/001.html#round-3---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3 - Replacement Creation Test - Monochromatic colors\nFirst, give me some pictures!\nPROMPT:\nCreate a valentines day cartoon theme pictures using only pink and gray.\nRESPONSE:\nSure, here are some Valentine’s Day cartoon theme pictures using only pink and gray:\n\nI chose the last one, since Gemini cannot help with images of people yet 🤦‍♂🤦‍♂ \nPROMPT:\ncreate a new picture which only change the grey color in the originial one using monochromatic colors in color theory\n\nRESPONSE:\nSure, here is a new picture that only changes the gray color in the original one using monochromatic colors in color theory:\n\nI was surprised!!!🤩🤩 Super good! Even though some features in the pictures are changed.\nI changed a picture and ask it again."
+  },
+  {
+    "objectID": "posts/001/001.html#round-3.1---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3.1---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3.1 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3.1 - Replacement Creation Test - Monochromatic colors\nPROMPT:\nBased on the original pictures, create a new image that ONLY change the grey color to monochromatic colors in color theory. Do not change other things in the image.\n\nRESPONSE:\nSure, here is the image you requested:\n\nWhat?!!!!😱😱😱\nIt scared me!!! 😨\nNo. Try again Gemini 😠 I gave it the one that works well before again."
+  },
+  {
+    "objectID": "posts/001/001.html#round-3.2---replacement-creation-test---monochromatic-colors",
+    "href": "posts/001/001.html#round-3.2---replacement-creation-test---monochromatic-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 3.2 - Replacement Creation Test - Monochromatic colors",
+    "text": "🚩 Round 3.2 - Replacement Creation Test - Monochromatic colors\nPROMPT:\ncreate a new picture which only change the grey color in the originial one using monochromatic colors in color theory\nRESPONSE:\nSure, here is a new image where the grey color has been transformed into a monochromatic color scheme, keeping everything else the same:\n\nI can’t believe it!!\nI think it is the machine stucks. It may still know the concepts of Color Theory 👨‍🎓"
+  },
+  {
+    "objectID": "posts/001/001.html#round-4---recreation-test---complementary-colors",
+    "href": "posts/001/001.html#round-4---recreation-test---complementary-colors",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 4 - Recreation Test - Complementary colors",
+    "text": "🚩 Round 4 - Recreation Test - Complementary colors\n❗ I started a new conversation with Gemini.\nPROMPT:\ncreate a new picture which only changeathe grey color in theoriginial onecomplementaryromatic colors in color tse the same:\n\nRESPONSE:\nSure, here is a new image based on the painting you sent, with the gray areas replaced with their complementary colors according to color theory:\n\nIt does not have green at all!\nDo you really know complementary colors?? 😕\nOr actually it knows what complementary colors are. But just cannot replace gray with the complementary colors? ❓"
+  },
+  {
+    "objectID": "posts/001/001.html#round-5---test-models-color-replacement-ability",
+    "href": "posts/001/001.html#round-5---test-models-color-replacement-ability",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "🚩 Round 5 - Test model’s color replacement ability",
+    "text": "🚩 Round 5 - Test model’s color replacement ability\nPROMPT:\nadd green color to the pictures to replace the gray \nRESPONSE:\nSure, here is an image with the gray areas replaced with green:\n\nOh Gemini, you actually know how to replace color in pictures. But you cannot change color to a monochromatic color."
+  },
+  {
+    "objectID": "posts/001/001.html#conclusion",
+    "href": "posts/001/001.html#conclusion",
+    "title": "Is AI an excellent artist in terms of color?",
     "section": "🔚 Conclusion",
-    "text": "🔚 Conclusion\nIn the next post, I will use Midjourney to generate the similar style!! Go and check that out!!!"
+    "text": "🔚 Conclusion\nGo back to our question: Does AI understand color theory?\nThe answer is:\nNO 🙅‍♂🙅‍♀ (At least for Gemini on Feb 11, 2024)\nExplanations:\n🟡 From Round 1 and 2, it can retrieve the knowledge of color theory for me. But this ability cannot prove it really understand color theory.\n🟣 From Round 5, we know that it actually can replace gray color with the green color.\n❗ But Round 4 implies that Gemini actually do no know which is the complementary colors of pink."
+  },
+  {
+    "objectID": "posts/001/001.html#ai-refers-to-gemini-is-not-an-excellent-artist-for-now.",
+    "href": "posts/001/001.html#ai-refers-to-gemini-is-not-an-excellent-artist-for-now.",
+    "title": "Is AI an excellent artist in terms of color?",
+    "section": "AI (refers to Gemini) is not an excellent artist for now.",
+    "text": "AI (refers to Gemini) is not an excellent artist for now."
   },
   {
     "objectID": "posts/006/006.html",
@@ -189,32 +322,60 @@
     "text": "🔚Conclusion: How to use emoji effectively in LOGO design? (1)\nKey Takeaways:\n1️⃣ specify how many logos you want in a sheet\n2️⃣ The machine can be easily distracted by other words, do not use add too many details (less than 12 words expecting parameters)\n3️⃣ If there are multiple logos, the models can also combine them together\n4️⃣ Emoji’s color and shape can influence the results. But for color, it is better to specify it using words\n👋👋 See you in The Secret of AI Generated LOGO: Emoji (2)!!!"
   },
   {
-    "objectID": "posts/004/004.html",
-    "href": "posts/004/004.html",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "objectID": "posts/010/Untitled.html",
+    "href": "posts/010/Untitled.html",
+    "title": "Compare different types of ControlNet(2)",
     "section": "",
-    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+    "text": "By incorporating Canny edge detection into ControlNet, the model gains a better understanding of the structural elements within an image, enabling it to produce outputs that are more visually coherent and contextually relevant.\nThis integration enhances the model’s ability to generate realistic and detailed images, making it a valuable addition to the ControlNet framework.\nFor example, this is the image and its corresponding image interpreted by Stable Diffusion"
   },
   {
-    "objectID": "posts/004/004.html#do-gpt-4-understands-emoji",
-    "href": "posts/004/004.html#do-gpt-4-understands-emoji",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
+    "objectID": "posts/010/Untitled.html#what-is-canny",
+    "href": "posts/010/Untitled.html#what-is-canny",
+    "title": "Compare different types of ControlNet(2)",
     "section": "",
-    "text": "😯 Let’s first compare GPT-4’s definition and related emoji!\n1️⃣ Prompt: What is a book?\nOutput: ‘A book is a collection of printed, written, or blank sheets, usually fastened together to hinge at one side. It is a written or printed’\n2️⃣ Prompt: What is a 📚?\nOutput: ‘A 📚 is an emoji symbolizing a book or books. It is often used in digital communication to represent reading, learning, or education.’\n👉 Fairly good! It seems like GPT-4 knows what emoji means.\nCompare to word’s definition, explanation of emojis will tend to focus more on representation meanings of emojis."
+    "text": "By incorporating Canny edge detection into ControlNet, the model gains a better understanding of the structural elements within an image, enabling it to produce outputs that are more visually coherent and contextually relevant.\nThis integration enhances the model’s ability to generate realistic and detailed images, making it a valuable addition to the ControlNet framework.\nFor example, this is the image and its corresponding image interpreted by Stable Diffusion"
   },
   {
-    "objectID": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
-    "href": "posts/004/004.html#compare-prompts-with-words-and-prompts-with-emojis",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "Compare prompts with words and prompts with emojis!",
-    "text": "Compare prompts with words and prompts with emojis!\n📒 Note: We use DALL·E 3!!\n🔴 Prompts with only words Prompt: books, 4 logos, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: create an image containing four books spaced evenly on a plain white background. Each book should be depicted with a unique logo on its cover, with the logos being simple and designed in a vector style. Each logo should feature a different splash of color. Overlay the text ‘mapwithmind’ on the image.\n🔺 Prompts with emojis Prompt: 📚, 4 logo, color, vector, add text: mapwithmind, simple, white background\nOutput: \nResponse from GPT: Design four distinct logos in color vector style on a simple white background. Incorporate the text ‘mapwithmind’ creatively into each design. Each logo should evoke an imaginative yet straightforward concept.\n👉 DALL·E 3 understands words better than emojis: In the response for Prompts with emojis, it even does not mention books!!\nBut for Prompts with only words, both the background and the logos are related to books!"
+    "objectID": "posts/005/005.html",
+    "href": "posts/005/005.html",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "",
+    "text": "In Matt Wolfe’s YouTube Video, he teach us how to figure out the prompt used for one AI image.\n\nBut TODAY! I will show you how to create the same style as in that image!\nNo matter whether it is AI image or not!\nYou can try the following methods to replicate the same style AS YOU WANT!"
   },
   {
-    "objectID": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
-    "href": "posts/004/004.html#fun-usage-of-emojis-to-recreate-famous-companies-logos",
-    "title": "The Secret of AI Generated LOGO: Emoji (3)",
-    "section": "Fun usage of emojis to recreate famous companies logos",
-    "text": "Fun usage of emojis to recreate famous companies logos\n🛒 Amazon:\nPrompt: smile, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a vector image featuring a symbolic illustration of a smile. Introduce four stylized logos that do not infringe any copyright, keeping them simple and making sure they contain elements reminiscent of online marketplace symbols. Incorporate the text ‘Amazon Rainforest’, creating a clear distinction to avoid possible copyright issues. Maintain a simple white background for the whole composition.\n👉 Wow! It takes cares of copyright issues, so it changes to ‘Amazon Rainforest; and ’creating a clear distinction to avoid possible copyright issues’\nIt knows what amazon is, so also includes online marketplace\nPrompt: 🙂, 4 logo, vector, add text: amazon, simple, white background\nOutput: \nResponse from GPT: Create a simple vector design that displays a sequence of four (4) distinct logos. Each logo should be creatively arranged in a visually appealing format on a white backdrop. Incorporate the word ‘amazon’ within the logo designs, ensuring the text is established harmoniously with the overall aesthetic.\n👉 Surprisingly, there is no smile information in the response!"
+    "objectID": "posts/005/005.html#whats-the-prompt-for-that-ai-image",
+    "href": "posts/005/005.html#whats-the-prompt-for-that-ai-image",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "",
+    "text": "In Matt Wolfe’s YouTube Video, he teach us how to figure out the prompt used for one AI image.\n\nBut TODAY! I will show you how to create the same style as in that image!\nNo matter whether it is AI image or not!\nYou can try the following methods to replicate the same style AS YOU WANT!"
+  },
+  {
+    "objectID": "posts/005/005.html#clip-interrogator-in-huggingface",
+    "href": "posts/005/005.html#clip-interrogator-in-huggingface",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "CLIP-Interrogator in Huggingface",
+    "text": "CLIP-Interrogator in Huggingface\n🟡 Step 1: Click the link below: https://huggingface.co/spaces\n🟠 Step 2: Search for “CLIP Interrogator”\n🔴 Step 3: Find the one has the most likes\n\n❗❗❗Note that the CLIP Interrogator can be changed sometimes, please follow these steps to find the best CLIP-Interrogator!!!Note that the CLIP Interrogator can be changed sometimes, please follow these steps to find the best CLIP-Interrogator!!!\n❤️ Step 4:Upload your image."
+  },
+  {
+    "objectID": "posts/005/005.html#try-clip-interrogator-in-huggingface",
+    "href": "posts/005/005.html#try-clip-interrogator-in-huggingface",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "Try CLIP-Interrogator in Huggingface !!",
+    "text": "Try CLIP-Interrogator in Huggingface !!\nI want to create a set of stickers under the theme of office.\nThe style should be similar to: \nAfter I upload the image, here is the output from CLIP Interrogator: a black and white drawing of a house, pictogram, based on child’s drawing, by Itō Seiu, osr, easy to understand, low resolution, nonbinary model, portrait size, warm features, descriptive, full subject shown in photo, one house, scanned document, color image\n✍ To test whether the prompt can generate the image you want, the best way is to put the prompt again, and see what you can get!\n🚩 TEST1\nAfter I edit some words, I got my final prompt for DALL·E 3:\nPrompt: a black and white drawing of a house, pictogram, based on child’s drawing, easy to understand, one house\nOutput: \nNot bad! But probably need to be more like simple easy line arts since the image is not filled with black.\nBut, I still feel weird if I put ’ image is not filled with black’ in the prompt.\nSo I ask Midjourney for help!"
+  },
+  {
+    "objectID": "posts/005/005.html#try-midjourney",
+    "href": "posts/005/005.html#try-midjourney",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "Try Midjourney !!",
+    "text": "Try Midjourney !!\n🟡 Step 1: Create a new chat\n\n🟠 Step 2: Type in ‘/describe’\n🔴 Step 3: Upload your image!\n\nAll right! Here is what Midjourney generates! \nWhen I click 1️⃣2️⃣3️⃣4️⃣， it can show the prompts that Midjourney guesses.\n1️⃣： an outline of a sketch of a house, in the style of simplistic characters, back button focus, political symbolism, holga 120n, use of precious materials, animated gifs, bold black outlines –ar 12:13 –v 3\n2️⃣：a drawing of the letter h. a house that is drawn with a pencil, in the style of simplistic characters, psychological symbolism, kodak professional tri-x 320, john brack, richard scarry, back button focus, 1000–1400 ce –ar 12:13 –v 3\n3️⃣：house coloring page free printable clip art free , in the style of feminist iconography, ilford pan 400, tactile texture, animated gifs, childs drawing, light maroon and black, tagging-like marks –ar 12:13 –v 3\n4️⃣：free house clipart images, in the style of gestural mark-making, peter blake, hallyu, kodak tri-x 400, political symbolism, allie brosh, embroidery –ar 12:13 –v 3\n✅ Some keywards that I get: outline of a sketch of a house, in the style of simplistic characters, bold black outlines, in the style of simplistic characters, clipart\nLet’s try it!\n🚩 TEST2\nI choose the prompts in 1️⃣ to generate image for me in Midjourney\n\n👉 Oh, it is still not as simple as we want. Image generation models doesn’t seem very capable of generating simple images.\n🚩 TEST3\nI also try DALL·E 3 using our previous prompt and keywords that we find in Midjourney\nPrompt: outline of a sketch of a house, bold black outlines, pictogram, based on child’s drawing, easy to understand, in the style of simplistic characters, clipart\nOutput: \nResponse: Craft an image that showcases a house. The house should be sketched with bold, black outlines inspired by a child’s drawing. This should be a simple, easy-to-understand depiction reminiscent of pictograms. It must not be too detailed yet should not fall into abstraction, closely resembling pictographic elements found in clipart style illustrations.\n👉 AAAAAAA! Still NOT GOOD!!!\nI think the response follows what I requires very well…"
+  },
+  {
+    "objectID": "posts/005/005.html#conclusion",
+    "href": "posts/005/005.html#conclusion",
+    "title": "How to recreate the same style as in that image 1",
+    "section": "🔚 Conclusion",
+    "text": "🔚 Conclusion\nIn the next post, I will use Midjourney to generate the similar style!! Go and check that out!!!"
   },
   {
     "objectID": "posts/003/03.html",
